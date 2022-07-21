@@ -43,11 +43,6 @@ h2{
     color: rgb(255, 255, 255)
 }
 
-.navbar {
-    position: sticky;
-    top: 0;
-}
-
 .tools {
     padding: 25px;
     height: 200px;
